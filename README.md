@@ -7,6 +7,10 @@ This is a simple react app that allows a user to create a neat todo list. Functi
 
 ## Setup/Running
 
+## Installing dependencies
+
+This app uses libraires such as React and Bootstrap, and the appropriate versions can be downloaded by running
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
