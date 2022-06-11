@@ -9,7 +9,12 @@ This is a simple react app that allows a user to create a neat todo list. Functi
 
 ## Installing dependencies
 
-This app uses libraires such as React and Bootstrap, and the appropriate versions can be downloaded by running
+This app uses libraires such as React and Bootstrap, and the appropriate versions can be downloaded by the command below. This command will generate the Node_Modules which includes all necesary dependences. The dependencies requried are included in package.json in the root dir. 
+
+'''
+npm install
+'''
+
 
 # Getting Started with Create React App
 
